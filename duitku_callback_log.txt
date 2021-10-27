@@ -1,0 +1,805 @@
+*** Logs virtual Account ***
+STATUS : 
+
+***************************
+
+*** 2021-04-06 10:22:34 ***
+merchantOrderId :  
+amount :  
+merchantUserId :  
+merchantCode :  
+productDetail :  
+additionalParam :  
+resultCode :  
+signature :  
+paymentCode :  
+merchantUserId :  
+reference :  
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 
+
+***************************
+
+*** 2021-04-06 10:25:02 ***
+merchantOrderId :  
+amount :  
+merchantUserId :  
+merchantCode :  
+productDetail :  
+additionalParam :  
+resultCode :  
+signature :  
+paymentCode :  
+merchantUserId :  
+reference :  
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 
+
+***************************
+
+*** 2021-04-06 10:25:32 ***
+merchantOrderId :  
+amount :  
+merchantUserId :  
+merchantCode :  
+productDetail :  
+additionalParam :  
+resultCode :  
+signature :  
+paymentCode :  
+merchantUserId :  
+reference :  
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 
+
+***************************
+
+*** 2021-04-06 10:26:43 ***
+merchantOrderId :  
+amount :  
+merchantUserId :  
+merchantCode :  
+productDetail :  
+additionalParam :  
+resultCode :  
+signature :  
+paymentCode :  
+merchantUserId :  
+reference :  
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 
+
+***************************
+
+*** 2021-04-06 10:28:48 ***
+merchantOrderId :  
+amount :  
+merchantUserId :  
+merchantCode :  
+productDetail :  
+additionalParam :  
+resultCode :  
+signature :  
+paymentCode :  
+merchantUserId :  
+reference :  
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-06 10:32:43 ***
+merchantOrderId : INVM-1617705117955 
+amount : 50000 
+merchantUserId :  
+merchantCode : D6248 
+productDetail : TopUp 50000 
+additionalParam :  
+resultCode : 00 
+signature : 254bd7754048456198d4d4db0b1246a1 
+paymentCode : VC 
+merchantUserId :  
+reference : D6248HOU5Q0D8DZTZDW5 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-06 10:33:31 ***
+merchantOrderId : INVM-1617705117955 
+amount : 50000 
+merchantUserId :  
+merchantCode : D6248 
+productDetail : TopUp 50000 
+additionalParam :  
+resultCode : 00 
+signature : 254bd7754048456198d4d4db0b1246a1 
+paymentCode : VC 
+merchantUserId :  
+reference : D6248HOU5Q0D8DZTZDW5 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-06 10:33:32 ***
+merchantOrderId : INVM-1617705117955 
+amount : 50000 
+merchantUserId :  
+merchantCode : D6248 
+productDetail : TopUp 50000 
+additionalParam :  
+resultCode : 00 
+signature : 254bd7754048456198d4d4db0b1246a1 
+paymentCode : VC 
+merchantUserId :  
+reference : D6248HOU5Q0D8DZTZDW5 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-06 10:34:17 ***
+merchantOrderId : INVM-1617705117955 
+amount : 50000 
+merchantUserId :  
+merchantCode : D6248 
+productDetail : TopUp 50000 
+additionalParam :  
+resultCode : 00 
+signature : 254bd7754048456198d4d4db0b1246a1 
+paymentCode : VC 
+merchantUserId :  
+reference : D6248HOU5Q0D8DZTZDW5 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-06 10:34:33 ***
+merchantOrderId : INVM-1617705117955 
+amount : 50000 
+merchantUserId :  
+merchantCode : D6248 
+productDetail : TopUp 50000 
+additionalParam :  
+resultCode : 00 
+signature : 254bd7754048456198d4d4db0b1246a1 
+paymentCode : VC 
+merchantUserId :  
+reference : D6248HOU5Q0D8DZTZDW5 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-06 10:35:04 ***
+merchantOrderId : INVM-1617705117955 
+amount : 50000 
+merchantUserId :  
+merchantCode : D6248 
+productDetail : TopUp 50000 
+additionalParam :  
+resultCode : 00 
+signature : 254bd7754048456198d4d4db0b1246a1 
+paymentCode : VC 
+merchantUserId :  
+reference : D6248HOU5Q0D8DZTZDW5 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 
+
+***************************
+
+*** 2021-04-06 10:35:40 ***
+merchantOrderId :  
+amount :  
+merchantUserId :  
+merchantCode :  
+productDetail :  
+additionalParam :  
+resultCode :  
+signature :  
+paymentCode :  
+merchantUserId :  
+reference :  
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-06 10:36:04 ***
+merchantOrderId : INVM-1617705117955 
+amount : 50000 
+merchantUserId :  
+merchantCode : D6248 
+productDetail : TopUp 50000 
+additionalParam :  
+resultCode : 00 
+signature : 254bd7754048456198d4d4db0b1246a1 
+paymentCode : VC 
+merchantUserId :  
+reference : D6248HOU5Q0D8DZTZDW5 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-06 10:36:20 ***
+merchantOrderId : INVM-1617705117955 
+amount : 50000 
+merchantUserId :  
+merchantCode : D6248 
+productDetail : TopUp 50000 
+additionalParam :  
+resultCode : 00 
+signature : 254bd7754048456198d4d4db0b1246a1 
+paymentCode : VC 
+merchantUserId :  
+reference : D6248HOU5Q0D8DZTZDW5 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-06 10:37:49 ***
+merchantOrderId : INVM-1617705117955 
+amount : 50000 
+merchantUserId : hanithio@duitku.com 
+merchantCode : D6248 
+productDetail :  
+additionalParam : test 
+resultCode : 00 
+signature : 254bd7754048456198d4d4db0b1246a1 
+paymentCode : VC 
+merchantUserId : hanithio@duitku.com 
+reference : D6248HOU5Q0D8DZTZDW5 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-06 10:39:21 ***
+merchantOrderId : INVM-1617705117955 
+amount : 50000 
+merchantUserId :  
+merchantCode : D6248 
+productDetail : TopUp 50000 
+additionalParam :  
+resultCode : 00 
+signature : 254bd7754048456198d4d4db0b1246a1 
+paymentCode : VC 
+merchantUserId :  
+reference : D6248HOU5Q0D8DZTZDW5 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-06 10:39:36 ***
+merchantOrderId : INVM-1617705117955 
+amount : 50000 
+merchantUserId :  
+merchantCode : D6248 
+productDetail : TopUp 50000 
+additionalParam :  
+resultCode : 00 
+signature : 254bd7754048456198d4d4db0b1246a1 
+paymentCode : VC 
+merchantUserId :  
+reference : D6248HOU5Q0D8DZTZDW5 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-06 10:40:52 ***
+merchantOrderId : INVM-1617705117955 
+amount : 50000 
+merchantUserId : hanithio@duitku.com 
+merchantCode : D6248 
+productDetail :  
+additionalParam : test 
+resultCode : 00 
+signature : 254bd7754048456198d4d4db0b1246a1 
+paymentCode : VC 
+merchantUserId : hanithio@duitku.com 
+reference : D6248HOU5Q0D8DZTZDW5 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-06 10:40:53 ***
+merchantOrderId : INVM-1617705117955 
+amount : 50000 
+merchantUserId : hanithio@duitku.com 
+merchantCode : D6248 
+productDetail :  
+additionalParam : test 
+resultCode : 00 
+signature : 254bd7754048456198d4d4db0b1246a1 
+paymentCode : VC 
+merchantUserId : hanithio@duitku.com 
+reference : D6248HOU5Q0D8DZTZDW5 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-06 10:40:54 ***
+merchantOrderId : INVM-1617705117955 
+amount : 50000 
+merchantUserId : hanithio@duitku.com 
+merchantCode : D6248 
+productDetail :  
+additionalParam : test 
+resultCode : 00 
+signature : 254bd7754048456198d4d4db0b1246a1 
+paymentCode : VC 
+merchantUserId : hanithio@duitku.com 
+reference : D6248HOU5Q0D8DZTZDW5 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-06 10:40:55 ***
+merchantOrderId : INVM-1617705117955 
+amount : 50000 
+merchantUserId : hanithio@duitku.com 
+merchantCode : D6248 
+productDetail :  
+additionalParam : test 
+resultCode : 00 
+signature : 254bd7754048456198d4d4db0b1246a1 
+paymentCode : VC 
+merchantUserId : hanithio@duitku.com 
+reference : D6248HOU5Q0D8DZTZDW5 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-06 10:40:55 ***
+merchantOrderId : INVM-1617705117955 
+amount : 50000 
+merchantUserId : hanithio@duitku.com 
+merchantCode : D6248 
+productDetail :  
+additionalParam : test 
+resultCode : 00 
+signature : 254bd7754048456198d4d4db0b1246a1 
+paymentCode : VC 
+merchantUserId : hanithio@duitku.com 
+reference : D6248HOU5Q0D8DZTZDW5 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-06 10:45:52 ***
+merchantOrderId : INVM-1617705117955 
+amount : 50000 
+merchantUserId :  
+merchantCode : D6248 
+productDetail : TopUp 50000 
+additionalParam :  
+resultCode : 00 
+signature : 254bd7754048456198d4d4db0b1246a1 
+paymentCode : VC 
+merchantUserId :  
+reference : D6248HOU5Q0D8DZTZDW5 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-06 10:45:54 ***
+merchantOrderId : INVM-1617705117955 
+amount : 50000 
+merchantUserId :  
+merchantCode : D6248 
+productDetail : TopUp 50000 
+additionalParam :  
+resultCode : 00 
+signature : 254bd7754048456198d4d4db0b1246a1 
+paymentCode : VC 
+merchantUserId :  
+reference : D6248HOU5Q0D8DZTZDW5 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-06 10:47:21 ***
+merchantOrderId : INVM-1617705117955 
+amount : 50000 
+merchantUserId : hanithio@duitku.com 
+merchantCode : D6248 
+productDetail :  
+additionalParam : test 
+resultCode : 00 
+signature : 254bd7754048456198d4d4db0b1246a1 
+paymentCode : VC 
+merchantUserId : hanithio@duitku.com 
+reference : D6248HOU5Q0D8DZTZDW5 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-06 10:47:43 ***
+merchantOrderId : INVM-1617705117955 
+amount : 50000 
+merchantUserId : hanithio@duitku.com 
+merchantCode : D6248 
+productDetail :  
+additionalParam : test 
+resultCode : 00 
+signature : 254bd7754048456198d4d4db0b1246a1 
+paymentCode : VC 
+merchantUserId : hanithio@duitku.com 
+reference : D6248HOU5Q0D8DZTZDW5 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-06 10:49:46 ***
+merchantOrderId : INVM-1617706120348 
+amount : 50000 
+merchantUserId :  
+merchantCode : D6248 
+productDetail : TopUp 50000 
+additionalParam :  
+resultCode : 00 
+signature : 90fe99e80a0dd9cc39ad8ffb64ec42ed 
+paymentCode : VC 
+merchantUserId :  
+reference : D6248I4NNEEMWHPTFRXK 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-06 11:02:16 ***
+merchantOrderId : INVM-1617706892811 
+amount : 50000 
+merchantUserId :  
+merchantCode : D6248 
+productDetail : TopUp 50000 
+additionalParam :  
+resultCode : 00 
+signature : 538933de5018ee41c5ceb7543311319b 
+paymentCode : VC 
+merchantUserId :  
+reference : D6248GPAWQ8DIR32ZO2T 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 
+
+***************************
+
+*** 2021-04-06 11:02:33 ***
+merchantOrderId :  
+amount :  
+merchantUserId :  
+merchantCode :  
+productDetail :  
+additionalParam :  
+resultCode :  
+signature :  
+paymentCode :  
+merchantUserId :  
+reference :  
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-07 08:16:20 ***
+merchantOrderId : INVM-1617783137198 
+amount : 50000 
+merchantUserId :  
+merchantCode : D6248 
+productDetail : TopUp 50000 
+additionalParam :  
+resultCode : 00 
+signature : 03432dab66af54129b6baf69dacff45c 
+paymentCode : VC 
+merchantUserId :  
+reference : D6248750KHG28GAL7I2F 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-08 08:26:28 ***
+merchantOrderId : INVM-1617870320684 
+amount : 50000 
+merchantUserId :  
+merchantCode : D6248 
+productDetail : TopUp 50000 
+additionalParam :  
+resultCode : 00 
+signature : d1f205850eef4cd717e526063b23f8d8 
+paymentCode : BT 
+merchantUserId :  
+reference : D6248HF4NVEKFE4LMZA4 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-08 08:28:10 ***
+merchantOrderId : INVM-1617870466514 
+amount : 50000 
+merchantUserId :  
+merchantCode : D6248 
+productDetail : TopUp 50000 
+additionalParam :  
+resultCode : 00 
+signature : 54f23f08cff068cffaa8e35ef2309947 
+paymentCode : B1 
+merchantUserId :  
+reference : D6248F7NEW67Q16VVNC1 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-08 08:29:25 ***
+merchantOrderId : INVM-1617870535955 
+amount : 50000 
+merchantUserId :  
+merchantCode : D6248 
+productDetail : TopUp 50000 
+additionalParam :  
+resultCode : 00 
+signature : 4ea696561cfefc0e4e8c4218cc72318d 
+paymentCode : BT 
+merchantUserId :  
+reference : D6248EE2E3SYKP170A25 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-08 08:31:10 ***
+merchantOrderId : INVM-1617870620137 
+amount : 200000 
+merchantUserId :  
+merchantCode : D6248 
+productDetail : TopUp 200000 
+additionalParam :  
+resultCode : 00 
+signature : f759bea2feb020582072c39fb963aafe 
+paymentCode : B1 
+merchantUserId :  
+reference : D6248BOFS80E6LQHURMT 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
+*** Logs virtual Account ***
+STATUS : 00
+
+***************************
+
+*** 2021-04-14 04:34:40 ***
+merchantOrderId : INVM-1618374595491 
+amount : 50000 
+merchantUserId :  
+merchantCode : D5273 
+productDetail : TopUp 50000 
+additionalParam :  
+resultCode : 00 
+signature : b19f131be980fdb95f175b57a68bf11d 
+paymentCode : I1 
+merchantUserId :  
+reference : D5273JOCQEBUSF1X0NUY 
+vaNumber :  
+issuer_name :  
+issuer_bank :  
+
+***************************
+
